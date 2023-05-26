@@ -1,6 +1,27 @@
 body{
     width: 900px;
     margin: auto;
-    background-color: azure;
+    background-color: bisque;
 
+}
+h1{
+    background: darkgoldenrod;
+    color: white;
+    text-align: center;
+}
+h2{
+    background: rgb(218, 247, 166);
+    text-align: center;
+}
+nav li{
+    display:inline-block;
+    padding: 5px;
+}
+
+.opcionesArriba{
+    font-size: x-large;
+}
+
+body{
+   font-family: 'Roboto', sans-serif;
 }
